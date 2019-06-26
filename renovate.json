@@ -1,6 +1,3 @@
 {
-  "lockFileMaintenance": {
-    "enabled": true,
-    "schedule": "at any time"
-  }
+"postUpdateOptions": ["npmDedupe"]
 }
