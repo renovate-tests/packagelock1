@@ -12,6 +12,6 @@
   "dependencies": {
     "@types/react": "16.7.10",
     "@types/react-dom": "16.8.2",
-    "chalk": "2.0.0"
+    "chalk": "3.0.0"
   }
 }
